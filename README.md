@@ -2,9 +2,18 @@
 <h1 align="center">Hi 👋, I'm Việt Hoàng</h1>
 <h3 align="center">I'm Interested in Web Exploitation, Penetration Testing, Cybersecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/220/220234.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viethoang30-23vh&label=Profile%20views&color=0e75b6&style=flat" alt="viethoang30-23vh" /> </p>
-- 👨‍💻 All of my projects are available at [httpp](httpp)
-- 📫 How to reach me **hoangliverstar@gmail.com**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=viethoang30-23vh&label=Profile%20views&color=0e75b6&style=flat" alt="viethoang30-23vh" /> </p>
+<div align="center">
+ 
+ 🔭 I’m currently studying at **UIT HCMVNU**
+ 
+ 🌱 I’m currently learning ** Information Security **
+
+💬 Attact me on **[here](https://gmail.com)**
+
+⚡ Fun fact **CTF is something threatening**
+
+ </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
