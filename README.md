@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **Information Security**
 
-💬 Attact me on **[here](https://gmail.com)**
+💬 Contact me on **[here](https://gmail.com)**
 
 ⚡ Fun fact **CTF is something threatening**
 
