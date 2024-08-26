@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **Information Security**
 
-💬 Contact me on **[here](https://gmail.com)**
+💬 Contact me on Linkedin **[here](https://www.linkedin.com/in/vi%E1%BB%87t-ho%C3%A0ng-97a92b324/)**
 
 ⚒️ My porfolio is **[here](https://google.com)**
 
@@ -22,8 +22,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<a href="https://beefproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://thehackrspace.com/wp-content/uploads/2019/06/beef-350x350.png" alt="BEEF" width="40" height="40"/>
+</a>
+ <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzhf7rr-j_esL2xqp_GwUfhszq2BKXoL6TA&s" alt="Metasploitable" width="40" height="40"/>
+</a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucxAAWpJ2WiAbgfoVTfL00BvgsEhk-BJDRg&s" alt="Burp Suite" width="40" height="40"/>
+</a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
