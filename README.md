@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **Information Security**
 
-💬 Contact me on Linkedin **[here](https://www.linkedin.com/in/vi%E1%BB%87t-ho%C3%A0ng-97a92b324/)**
+💬 Contact me on *LinkedIn* **[here](https://www.linkedin.com/in/vi%E1%BB%87t-ho%C3%A0ng-97a92b324/)**
 
 ⚒️ My porfolio is **[here](https://google.com)**
 
