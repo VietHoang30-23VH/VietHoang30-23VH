@@ -1,6 +1,6 @@
 ![MasterHead](https://giffiles.alphacoders.com/220/220234.gif)
 <h1 align="center">Hi 👋, I'm Việt Hoàng</h1>
-<h3 align="center">I'm Interested in Web Exploitation, Penetration Testing, Cybersecurity</h3>
+<h3 align="center">I'm Interested in Web Penetration Testing, Cybersecurity</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viethoang30-23vh&label=Profile%20views&color=0e75b6&style=flat" alt="viethoang30-23vh" /> </p>
 <div align="center">
  
